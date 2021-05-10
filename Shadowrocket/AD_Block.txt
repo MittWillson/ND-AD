@@ -1,7 +1,7 @@
 # https://raw.githubusercontent.com/NobyDa/ND-AD/master/QuantumultX/AD_Block.txt
 
 # Current total domain name : 43,000+ 
-# Update time : 2020.10.3
+# Update time : 2021.2.27
 
 # AdRule
 DOMAIN-SUFFIX,mcupdate.gstarcad.com
@@ -6368,7 +6368,6 @@ DOMAIN-SUFFIX,searchignited.com
 DOMAIN-SUFFIX,searchswapper.com
 DOMAIN-SUFFIX,seavideo-ak.espn.go.com
 DOMAIN-SUFFIX,sebar.thand.info
-DOMAIN-SUFFIX,sec.resource.xiaomi.net
 DOMAIN-SUFFIX,secpay.wostore.cn
 DOMAIN-SUFFIX,secretmedia.s3.amazonaws.com
 DOMAIN-SUFFIX,secure.dsp.com
@@ -8760,7 +8759,6 @@ DOMAIN-SUFFIX,cpro.baidustatic.com
 DOMAIN-SUFFIX,cpro.tieba.baidu.com
 DOMAIN-SUFFIX,cpro2.baidustatic.com
 DOMAIN-SUFFIX,dup.baidustatic.com
-DOMAIN-SUFFIX,f10.baidu.com
 DOMAIN-SUFFIX,idm.bce.baidu.com
 DOMAIN-SUFFIX,imageplus.baidu.com
 DOMAIN-SUFFIX,itsdata.map.baidu.com
@@ -21512,8 +21510,6 @@ DOMAIN,crab.baidu.com
 DOMAIN,dlswbr.baidu.com
 DOMAIN,eduad.baidu.com
 DOMAIN,ext.baidu.com
-DOMAIN,f11.baidu.com
-DOMAIN,f12.baidu.com
 DOMAIN,fcm.baidu.com
 DOMAIN,goutong.baidu.com
 DOMAIN,hao123union.baidu.com
@@ -30357,6 +30353,7 @@ DOMAIN,kang08.com
 DOMAIN,kanglingjiu.com
 DOMAIN,img2.user.kanimg.com
 DOMAIN,www.kanjiantu.com
+DOMAIN,api-access.pangolin-sdk-toutiao-b.com
 DOMAIN,20200401.logic.cpm.cm.kankan.com
 DOMAIN,20200402.logic.cpm.cm.kankan.com
 DOMAIN,20200403.logic.cpm.cm.kankan.com
@@ -34353,7 +34350,6 @@ DOMAIN,oujouniw.com
 DOMAIN,ouloutso.net
 DOMAIN,oultuwee.net
 DOMAIN,w.oumazg.com
-DOMAIN,ouo.io
 DOMAIN,cookie.oup.com
 DOMAIN,ouptoobe.net
 DOMAIN,oupushee.com

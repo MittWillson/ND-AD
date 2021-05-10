@@ -34350,7 +34350,6 @@ DOMAIN,oujouniw.com,REJECT
 DOMAIN,ouloutso.net,REJECT
 DOMAIN,oultuwee.net,REJECT
 DOMAIN,w.oumazg.com,REJECT
-DOMAIN,ouo.io,REJECT
 DOMAIN,cookie.oup.com,REJECT
 DOMAIN,ouptoobe.net,REJECT
 DOMAIN,oupushee.com,REJECT
